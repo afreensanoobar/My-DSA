@@ -3,12 +3,7 @@ package com.sanu;
 public class SearchInStrings {
     public static void main(String[] args) {
         String name = "sanubar";
-        char target = 'u';
-        System.out.println(search2(name, target));
-    }
-
-
-    static boolean search2(String str, char target) {
+        char target =String str, char target) {
         if (str.isEmpty()) {
             return false;
         }
