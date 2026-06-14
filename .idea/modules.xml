@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array and ArrayList/Array and ArrayList.iml" filepath="$PROJECT_DIR$/Array and ArrayList/Array and ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linear Search/Linear Search.iml" filepath="$PROJECT_DIR$/Linear Search/Linear Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My DSA.iml" filepath="$PROJECT_DIR$/My DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings and StringBuilder/Strings and StringBuilder.iml" filepath="$PROJECT_DIR$/Strings and StringBuilder/Strings and StringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functions/functions.iml" filepath="$PROJECT_DIR$/functions/functions.iml" />
+    </modules>
+  </component>
+</project>

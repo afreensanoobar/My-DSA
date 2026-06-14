@@ -8,7 +8,20 @@ public class SearchInRange {
     }
  static int linearSearch (int []arr, int target , int start, int end){
         if(arr.isEmpty){
-            retyurn
+            return  -1 ;
         }
+
+        // run for loop
+     for (int index = start ; index<=end; index++){
+         int element = arr[index];
+
+         if (element == target){
+             return index;
+         }
+
+
+     }
+     //this will execute when none od the above woks
+     return -1;
  }
 }
