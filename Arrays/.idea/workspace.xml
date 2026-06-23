@@ -3,7 +3,26 @@
   <component name="ChangeListManager">
     <list default="true" id="a897e9b5-66c5-4881-9464-fc7d866fc4bb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../Array and ArrayList" beforeDir="false" afterPath="$PROJECT_DIR$/../Array and ArrayList" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/src/NegativeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/NegativeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/Arrays/.idea/Array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/Arrays/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/Arrays/Arrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/Arrays/src/ArrayOfOtherDataTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/Arrays/src/ArraySum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/Arrays/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/Arrays/src/NegativeNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/Arrays/src/PassingArrayToMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/Arrays/src/ShallowDeepCopy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/Arrays/src/maxElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/out/production/Arrays/ArrayOfOtherDataTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/out/production/Arrays/ArraySum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/out/production/Arrays/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/out/production/Arrays/NegativeNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/out/production/Arrays/PassingArrayToMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/out/production/Arrays/maxElement.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +58,21 @@
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/My DSA/Arrays&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/My DSA/Array/Arrays/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\My DSA\Arrays\.idea" />
+      <recent name="D:\My DSA\Arrays" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="NegativeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NegativeNumbers" />
@@ -74,6 +104,8 @@
       <updated>1781621713019</updated>
       <workItem from="1781621721585" duration="921000" />
       <workItem from="1781622800440" duration="2498000" />
+      <workItem from="1782196436055" duration="724000" />
+      <workItem from="1782197201955" duration="128000" />
     </task>
     <servers />
   </component>
