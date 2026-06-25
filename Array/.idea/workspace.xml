@@ -2,31 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0fd6202-5f94-4e25-8261-206c06d05e9d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SecondLargest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Array and ArrayList" beforeDir="false" afterPath="$PROJECT_DIR$/../Array and ArrayList" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/.idea/Array.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/Arrays.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/src/ArrayOfOtherDataTypes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/src/ArraySum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/src/NegativeNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/src/PassingArrayToMethods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/src/ShallowDeepCopy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/src/maxElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/ArrayOfOtherDataTypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/ArraySum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/NegativeNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/PassingArrayToMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/maxElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SearchInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SearchInArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -44,16 +35,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.SearchInArray.executor": "Run",
+    "Application.SecondLargest.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SecondLargest">
     <configuration name="SearchInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SearchInArray" />
       <module name="Array" />
@@ -61,8 +54,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SecondLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SecondLargest" />
+      <module name="Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SecondLargest" />
         <item itemvalue="Application.SearchInArray" />
       </list>
     </recent_temporary>
@@ -83,7 +84,8 @@
       <option name="presentableId" value="Default" />
       <updated>1782197533827</updated>
       <workItem from="1782197538960" duration="3857000" />
-      <workItem from="1782239133678" duration="137000" />
+      <workItem from="1782239133678" duration="177000" />
+      <workItem from="1782407594960" duration="796000" />
     </task>
     <servers />
   </component>
