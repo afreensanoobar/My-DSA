@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0fd6202-5f94-4e25-8261-206c06d05e9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Array and ArrayList" beforeDir="false" afterPath="$PROJECT_DIR$/../Array and ArrayList" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SearchInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SearchInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/SecondLargest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Array/SecondLargest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SecondLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondLargest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,21 +33,29 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_ASCENDING" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.SearchInArray.executor": "Run",
-    "Application.SecondLargest.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondLargest.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.SecondLargest">
+}</component>
+  <component name="RunManager" selected="Application.ReverseArray">
+    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseArray" />
+      <module name="Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SearchInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SearchInArray" />
       <module name="Array" />
@@ -63,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseArray" />
         <item itemvalue="Application.SecondLargest" />
         <item itemvalue="Application.SearchInArray" />
       </list>
@@ -85,7 +95,8 @@
       <updated>1782197533827</updated>
       <workItem from="1782197538960" duration="3857000" />
       <workItem from="1782239133678" duration="177000" />
-      <workItem from="1782407594960" duration="796000" />
+      <workItem from="1782407594960" duration="6310000" />
+      <workItem from="1782632062751" duration="597000" />
     </task>
     <servers />
   </component>
