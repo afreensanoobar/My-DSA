@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0fd6202-5f94-4e25-8261-206c06d05e9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SegregateZerosAndOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeTwoSortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Array and ArrayList" beforeDir="false" afterPath="$PROJECT_DIR$/../Array and ArrayList" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/SegregateZerosAndOnes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Array/SegregateZerosAndOnes.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,10 +34,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MergeTwoSortedArray.executor": "Run",
     "Application.ReverseArray.executor": "Run",
     "Application.SearchInArray.executor": "Run",
     "Application.SecondLargest.executor": "Run",
     "Application.SegregateZerosAndOnes.executor": "Run",
+    "Application.waveArray.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -47,16 +50,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SegregateZerosAndOnes">
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseArray" />
+  <component name="RunManager" selected="Application.MergeTwoSortedArray">
+    <configuration name="MergeTwoSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeTwoSortedArray" />
       <module name="Array" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SearchInArray" />
+    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseArray" />
       <module name="Array" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,12 +79,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="waveArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="waveArray" />
+      <module name="Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeTwoSortedArray" />
+        <item itemvalue="Application.waveArray" />
         <item itemvalue="Application.SegregateZerosAndOnes" />
         <item itemvalue="Application.ReverseArray" />
         <item itemvalue="Application.SecondLargest" />
-        <item itemvalue="Application.SearchInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -105,6 +116,9 @@
       <workItem from="1782407594960" duration="6310000" />
       <workItem from="1782632062751" duration="4575000" />
       <workItem from="1782716113797" duration="7080000" />
+      <workItem from="1782843808492" duration="797000" />
+      <workItem from="1782929659442" duration="3760000" />
+      <workItem from="1783008139112" duration="4209000" />
     </task>
     <servers />
   </component>
