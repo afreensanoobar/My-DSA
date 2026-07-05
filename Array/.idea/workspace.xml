@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0fd6202-5f94-4e25-8261-206c06d05e9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MergeTwoSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sortings/Sortings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sortings/src/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sortings/src/MoveAllZerosToEnd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Array and ArrayList" beforeDir="false" afterPath="$PROJECT_DIR$/../Array and ArrayList" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/SegregateZerosAndOnes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Array/SegregateZerosAndOnes.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +36,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BubbleSort.executor": "Run",
     "Application.MergeTwoSortedArray.executor": "Run",
+    "Application.MoveAllZerosToEnd.executor": "Run",
     "Application.ReverseArray.executor": "Run",
     "Application.SearchInArray.executor": "Run",
     "Application.SecondLargest.executor": "Run",
@@ -45,12 +49,21 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/My DSA/Sortings/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MergeTwoSortedArray">
+  <component name="RunManager" selected="Application.MoveAllZerosToEnd">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubbleSort" />
+      <module name="Sortings" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MergeTwoSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MergeTwoSortedArray" />
       <module name="Array" />
@@ -58,16 +71,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseArray" />
-      <module name="Array" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SecondLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SecondLargest" />
-      <module name="Array" />
+    <configuration name="MoveAllZerosToEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MoveAllZerosToEnd" />
+      <module name="Sortings" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -86,13 +92,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Array" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MoveAllZerosToEnd" />
+        <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.MergeTwoSortedArray" />
         <item itemvalue="Application.waveArray" />
         <item itemvalue="Application.SegregateZerosAndOnes" />
-        <item itemvalue="Application.ReverseArray" />
-        <item itemvalue="Application.SecondLargest" />
       </list>
     </recent_temporary>
   </component>
@@ -118,11 +135,24 @@
       <workItem from="1782716113797" duration="7080000" />
       <workItem from="1782843808492" duration="797000" />
       <workItem from="1782929659442" duration="3760000" />
-      <workItem from="1783008139112" duration="4209000" />
+      <workItem from="1783008139112" duration="4912000" />
+      <workItem from="1783195006252" duration="3023000" />
+      <workItem from="1783233174016" duration="4699000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../Sortings/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
