@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0fd6202-5f94-4e25-8261-206c06d05e9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Sortings/Sortings.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sortings/src/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sortings/src/MoveAllZerosToEnd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Array and ArrayList" beforeDir="false" afterPath="$PROJECT_DIR$/../Array and ArrayList" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -137,7 +133,7 @@
       <workItem from="1782929659442" duration="3760000" />
       <workItem from="1783008139112" duration="4912000" />
       <workItem from="1783195006252" duration="3023000" />
-      <workItem from="1783233174016" duration="4699000" />
+      <workItem from="1783233174016" duration="8588000" />
     </task>
     <servers />
   </component>
