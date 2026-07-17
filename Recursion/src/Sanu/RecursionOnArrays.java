@@ -6,7 +6,7 @@ public class RecursionOnArrays {
 //        recPrint(arr,0);
         int target= 76;
         System.out.println(exists(arr, target,0));
-    } ic static boolean exists (int [] arr , int target, int idx){
+    }  static boolean exists (int [] arr , int target, int idx){
         if (idx == arr.length) return false;
         if (arr[idx] == target ) return true ;
         return exists(arr ,target ,idx+1);
