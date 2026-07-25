@@ -1,12 +1,14 @@
-
+package com.OOPS;
 
 public class PassingClassesToMethods {
+
     public static class Car{
         int seats;
         String name;
         double length;
         String type;
         int torque;
+        //creating method within class that will print all things
         void print(){
             System.out.println(seats+" "+name+" "+length+"m "+type+" "+torque+"nm ");
         }
@@ -18,15 +20,17 @@ public class PassingClassesToMethods {
         c.seats = 5;
         c.torque = 178;
         c.type = "SUV";
-
-        change(c);
-
-        System.out.println(c.seats);
         c.print();
+        change(c);
+        System.out.println(c.seats);
+prints(c);
 
     }
 
     private static void change(Car x) {
         x.seats = 4;
+    }
+    private static void prints(Car c){
+        System.out.println(c.name+" " + c.type+" "+c.seats+" ");
     }
 }

@@ -1,4 +1,4 @@
-package OOPS;
+package com.OOPS;
 
 import java.util.Scanner;
 class Student{ // khudka ek data type bana liya hai

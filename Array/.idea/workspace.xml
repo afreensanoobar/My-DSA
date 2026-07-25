@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e0fd6202-5f94-4e25-8261-206c06d05e9d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../Array and ArrayList" beforeDir="false" afterPath="$PROJECT_DIR$/../Array and ArrayList" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,28 +30,28 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_ASCENDING" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeTwoSortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MoveAllZerosToEnd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SearchInArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SecondLargest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SegregateZerosAndOnes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.waveArray.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/My DSA/MergeSort/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BubbleSort.executor": "Run",
+    "Application.MergeTwoSortedArray.executor": "Run",
+    "Application.MoveAllZerosToEnd.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
+    "Application.SearchInArray.executor": "Run",
+    "Application.SecondLargest.executor": "Run",
+    "Application.SegregateZerosAndOnes.executor": "Run",
+    "Application.waveArray.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/My DSA/Linked List/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.MergeSort">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BubbleSort" />
@@ -140,6 +140,11 @@
           <url>file://$PROJECT_DIR$/../MergeSort/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../Linked List/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
