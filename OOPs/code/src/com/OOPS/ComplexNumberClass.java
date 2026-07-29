@@ -1,30 +1,37 @@
 package com.OOPS;
 
  class ComplexNumber {
-    int x;
-    int y;
-    ComplexNumber(int x, int y) {
-        this.x = x;
-        this.y = y;
-    }
+     int x;
+     int y;
 
-    ComplexNumber() {
-    }
+     ComplexNumber(int x, int y) {
+         this.x = x;
+         this.y = y;
+     }
 
-    void print() {
-        if (y >= 0) System.out.println(x + "+"+ y + "i");
-        else System.out.println(x + "-" +(-y) + "i");
-    }
+     ComplexNumber() {
+     }
 
-    void add(ComplexNumber z2) {
-        x += z2.x;
-        y += z2.y;
-    }
-}
+     void print() {
+         if (y >= 0) System.out.println(x + "+" + y + "i");
+         else System.out.println(x + "-" + (-y) + "i");
+     }
 
-public class ComplexNumberClass {
-    public static void main(String[] args) {
-        ComplexNumber z1 = new ComplexNumber(2,-8);
-        ComplexNumber z2 = new ComplexNumber(6,-7);
-    }
-}
+     void add(ComplexNumber z) {
+         this.x += z.x;// x = x + z.x(z of x)
+         this.y += z.y;
+     }
+
+     void mul(ComplexNumber z) {
+         x = x * z.x - y * z.y;
+         y = x * z.y - y * z.x;
+     }
+
+
+     public class ComplexNumberClass {
+         public static void main(String[] args) {
+             ComplexNumber z1 = new ComplexNumber(2, -8);
+             ComplexNumber z2 = new ComplexNumber(6, -7);
+         }
+     }
+ }
