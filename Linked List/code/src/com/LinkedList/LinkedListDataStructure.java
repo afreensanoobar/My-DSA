@@ -22,9 +22,11 @@ class Node {
                 }
 
                 temp = temp.next;
+                idx++;
             }
             return -1;
         }
+
         void addAtTail(int val) {
             Node temp = new Node(val);
             if (tail == null) head = tail = temp;
@@ -34,6 +36,7 @@ class Node {
             }
             size++;
         }
+
         void addAtHead(int val) {
             Node temp = new Node(val);
             if (tail == null) head = tail = temp;
@@ -43,6 +46,7 @@ class Node {
             }
             size++;
         }
+
         void deleteAtHead() {
             if (head == null) {
                 System.out.println("empty");
@@ -52,6 +56,7 @@ class Node {
             if (head == null) tail = null;
             size--;
         }
+
         void display() {
             if (head == null) return;
             Node temp = head;
@@ -62,9 +67,11 @@ class Node {
             }
             System.out.println();
         }
+
         void insert(int val, int idx) {
             if (idx < 0 || idx > size) {
                 System.out.println("Invalid index");
+                return;
             } else if (idx == 0) addAtHead(val);
             else if (idx == size) addAtTail(val);
             else {
@@ -81,6 +88,7 @@ class Node {
 
 
         }
+
         int get(int idx) {
             if (idx < 0 || idx >= size) {
                 System.out.println("Invalid index");
@@ -92,6 +100,7 @@ class Node {
             }
             return temp.val;
         }
+
         void delete(int idx) {
             if (idx < 0 || idx >= size) {
                 System.out.println("Invalid Index");
@@ -99,15 +108,18 @@ class Node {
             }
             if (idx == 0) {
                 deleteAtHead();
+                return;
             }
+            //move temp to the node before the node to delete
             Node temp = head;
-            for (int i = 1; i <= idx; i++) {
+            for (int i = 1; i < idx; i++) {
                 temp = temp.next;
             }
+            //skip the node to be dleted
             temp.next = temp.next.next;
 
             if (idx == size - 1) {
-                tail = temp;//we are deleteing tail
+                tail = temp;//we are deleting tail
             }
             size--;
         }
@@ -120,16 +132,18 @@ class Node {
                 ll.addAtTail(30);
                 ll.addAtTail(40);
                 ll.addAtTail(50);
-                ll.display() ;
+                ll.display();
                 ll.addAtHead(80);
                 ll.display();
                 System.out.println(ll.size);
                 ll.deleteAtHead();
-                   ll.display();
+                ll.display();
                 ll.search(87);
-                ll.insert(67,3);ll.display();
-                System.out.println(ll.get(7));
-                ll.delete(4);ll.display();
+                ll.insert(67, 3);
+                ll.display();
+                System.out.println(ll.get(4));
+                ll.delete(3);
+                ll.display();
             }
         }
 
